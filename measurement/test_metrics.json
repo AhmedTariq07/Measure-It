@@ -1,0 +1,9 @@
+{
+    "test_images": 7,
+    "mean_IoU": 0.9531,
+    "pixel_precision": 0.9607,
+    "pixel_recall": 0.9928,
+    "mAP_50": 1.0,
+    "mAP_50_95": 0.9467,
+    "note": "Single-class, one predicted card per image. AP is a mask-IoU-based approximation, not standard COCO mAP."
+}
