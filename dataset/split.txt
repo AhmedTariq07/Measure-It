@@ -1,0 +1,8 @@
+TRAIN:
+(To be filled after collecting images)
+
+VALIDATION:
+(To be filled after collecting images)
+
+TEST:
+(To be filled after collecting images)
